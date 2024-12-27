@@ -1,0 +1,4 @@
+displayName = The Community Slot
+author = King
+version = 0.3
+modReferences = CalamityMod

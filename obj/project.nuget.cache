@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "153Aw1IIbfs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shawm\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ComSlot\\ComSlot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shawm\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

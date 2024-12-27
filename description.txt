@@ -1,0 +1,2 @@
+Adds a slot specifically for the The Community and Shattered Community items from calamity mod.
+Saw a request for this in the tmodloader server on discord.
